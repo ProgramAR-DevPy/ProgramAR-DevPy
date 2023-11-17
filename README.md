@@ -13,7 +13,7 @@
 - Su lema [**__'Encode Your Life'__**](https://www.linkedin.com/in/alejandrososa-encodeyourlife/) refleja su convicción de que la tecnología nos empodera para dar forma activa a nuestro destino. 
 - Valores como la ética, la honestidad y el amor por la familia son fundamentales para él, mientras persigue el constante aprendizaje, la enseñanza y el crecimiento personal.
 - **__El ser saber y enseñar a ser persona__**, definen sus objetivos personales. 
-- Y hoy se desempeña como **__coordinador regional de jujuy para la__** [**__Sociedad Argentina de Inteligencia Artificial__**](https://saia.ar/).
+- Y hoy se desempeña como **__Jefe de Coordinadores Regionales__** y como **__coordinador regional de jujuy para la__** [**__Sociedad Argentina de Inteligencia Artificial__**](https://saia.ar/).
 
 ## Experiencia Profesional
 
