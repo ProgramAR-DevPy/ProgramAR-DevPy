@@ -1,7 +1,7 @@
 # **__Ale Sosa | Python Dev__** | [<img src= "https://i.postimg.cc/fWftskPg/linkedin.png" height=20>](https://www.linkedin.com/in/alejandrososa-encodeyourlife/) | [<img src= "https://i.postimg.cc/LX0Rzs5F/spotify-2.png" height=20>](https://open.spotify.com/show/5PpPxsPVnvIfeQL1dj0ztW?si=4568a51110da4682/) | [<img src= "https://i.postimg.cc/J0NqfPgr/youtube.png" height=25>](https://www.youtube.com/@tecno.random) | [<img src= "https://i.postimg.cc/CLDG6P89/github-filled.png" height=22>](https://github.com/ProgramAR-DevPy) 
  
 [![Ale Sosa Python Dev
-](https://media.licdn.com/dms/image/D4D16AQHY0qaTu4m6Ug/profile-displaybackgroundimage-shrink_350_1400/0/1683501961598?e=1697068800&v=beta&t=OUy-OZprnz8borWZx8EHRBrwrZaH1eMlZwVmBiKg0aM)](https://www.linkedin.com/in/alejandrososa-encodeyourlife/)
+]([https://media.licdn.com/dms/image/D4D16AQHY0qaTu4m6Ug/profile-displaybackgroundimage-shrink_350_1400/0/1683501961598?e=1697068800&v=beta&t=OUy-OZprnz8borWZx8EHRBrwrZaH1eMlZwVmBiKg0aM](https://i.postimg.cc/7h7Mf2RL/1683501962502.jpg))](https://www.linkedin.com/in/alejandrososa-encodeyourlife/)
 
 ## Acerca de [@Program_AR](https://t.me/Program_AR) 
 
