@@ -5,7 +5,6 @@
 
 ## Acerca de [@Program_AR](https://t.me/Program_AR) 
 
-```markdown
 👨‍🏫 **Alejandro Sosa**, es un apasionado de la tecnología y la Inteligencia Artificial.
 
 ⚜️ **Fundador de CodificAR Dev** Desarrollo de Software e IA y Python Developer Freelance.
@@ -26,16 +25,15 @@
 - 🔸 Fundador CodificAr Dev | Empresa de Desarrollo de Software e IA | 2023 - actualidad  
 - 🔹 Fundador Soluciones Informáticas MLD | Empresa de Informática | 2006 - 2023  
 - 🔸 Programador Python | Empresa de Software Gestionst | 2021-2023  
-```
+
 
 Citations:
 [1] https://ar.linkedin.com/in/alejandrososa-encodeyourlife
 [2] https://chubutdigital.com.ar/2024/03/11/entrevista-a-un-referente-nacional-de-la-inteligencia-artificial-y-la-innovacion-tecnologica/
 [3] https://www.youtube.com/watch?v=CBPAK03-zBs
 [4] https://es.linkedin.com/posts/sociedad-argentina-de-inteligencia-artificial_entrevista-alejandro-sosa-chatbots-ia-activity-7234548788315492355-uXDL
-[5] https://saia.ar/equipo
-[6] https://www.fceco.uner.edu.ar/charla-introduccion-a-la-ia-origenes-y-oportunidades-actuales/
-[7] https://futuria.substack.com/p/argentina-40-sociedad-argentina-de
-[8] https://talently.tech/ly/a-sosa
+[5] https://www.fceco.uner.edu.ar/charla-introduccion-a-la-ia-origenes-y-oportunidades-actuales/
+[6] https://futuria.substack.com/p/argentina-40-sociedad-argentina-de
+[7] https://talently.tech/ly/a-sosa
 
 
