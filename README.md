@@ -34,6 +34,6 @@ Citations:
 [4] https://es.linkedin.com/posts/sociedad-argentina-de-inteligencia-artificial_entrevista-alejandro-sosa-chatbots-ia-activity-7234548788315492355-uXDL
 [5] https://www.fceco.uner.edu.ar/charla-introduccion-a-la-ia-origenes-y-oportunidades-actuales/
 [6] https://futuria.substack.com/p/argentina-40-sociedad-argentina-de
-[7] https://talently.tech/ly/a-sosa
+
 
 
